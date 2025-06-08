@@ -13,6 +13,6 @@ bpf_image.pico: bpf_image.c /usr/include/sys/types.h \
   /usr/include/stdio.h /usr/include/string.h /usr/include/strings.h \
   /usr/include/xlocale/_strings.h /usr/include/xlocale/_string.h \
   pcap-int.h pcap.h \
-  /home/shibo/libpcap/lib/libpcap/../../compat/compat.h \
+  /home/shibo/tcpdump/libpcap/lib/libpcap/../../compat/compat.h \
   /usr/include/net/bpf.h /usr/include/sys/_eventhandler.h \
   /usr/include/sys/queue.h /usr/include/sys/ck.h /usr/include/net/dlt.h

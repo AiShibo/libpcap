@@ -40,7 +40,7 @@ gencode.pico: gencode.c /usr/include/sys/types.h /usr/include/sys/cdefs.h \
   /usr/include/sys/_smr.h /usr/include/vm/uma_align_mask.h \
   /usr/include/net/radix.h /usr/include/netpfil/pf/pf.h \
   /usr/include/netpfil/pf/pf_altq.h /usr/include/netpfil/pf/pf_mtag.h \
-  /home/shibo/libpcap/lib/libpcap/../../sys/netmpls/mpls.h \
+  /home/shibo/tcpdump/libpcap/lib/libpcap/../../sys/netmpls/mpls.h \
   /usr/include/net80211/ieee80211.h \
   /usr/include/net80211/ieee80211_radiotap.h /usr/include/stdlib.h \
   /usr/include/stddef.h /usr/include/setjmp.h \
@@ -48,7 +48,7 @@ gencode.pico: gencode.c /usr/include/sys/types.h /usr/include/sys/cdefs.h \
   /usr/include/string.h /usr/include/strings.h \
   /usr/include/xlocale/_strings.h /usr/include/xlocale/_string.h \
   pcap-int.h pcap.h \
-  /home/shibo/libpcap/lib/libpcap/../../compat/compat.h \
+  /home/shibo/tcpdump/libpcap/lib/libpcap/../../compat/compat.h \
   /usr/include/net/bpf.h /usr/include/sys/_eventhandler.h \
   /usr/include/sys/ck.h /usr/include/net/dlt.h ethertype.h llc.h \
   gencode.h ppp.h pcap-namedb.h /usr/include/netdb.h

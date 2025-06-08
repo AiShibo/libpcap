@@ -166,9 +166,7 @@ pcap_read(pcap_t *p, int cnt, pcap_handler callback, u_char *user)
 		}
 
 		caplen = bhp->bh_caplen;
-		printf("caplen is %d\n", caplen);
 		hdrlen = bhp->bh_hdrlen;
-		printf("hdrlen is %d\n", hdrlen);
 		/*
 		 * XXX A bpf_hdr matches a pcap_pkthdr.
 		 */
